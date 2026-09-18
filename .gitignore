@@ -1,0 +1,84 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Claude Code
+.claude/
+CLAUDE.local.md
+
+# OpenAI Codex CLI
+.codex/
+
+# GitHub Copilot
+.copilot/
+
+# Cursor
+.cursor/
+.cursorrules.local
+
+# Windsurf / Codeium
+.windsurf/
+.codeium/
+
+# Continue.dev
+.continue/
+
+# Aider
+.aider*
+.aider.tags.cache*
+
+# Cline / Roo Code (VS Code extensions)
+.clinerules/
+.roo/
+
+# Amazon Q / CodeWhisperer
+.amazonq/
+
+# Gemini CLI
+.gemini/
+
+# JetBrains AI Assistant
+.junie/
+
+# Zed AI
+.zed/
+
+# Generic agent scratch/config dirs
+.agent/
+.agents/
+.mcp/
+.taskmaster/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OneDrive sync artifacts
+*.tmp
+~$*
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.local
